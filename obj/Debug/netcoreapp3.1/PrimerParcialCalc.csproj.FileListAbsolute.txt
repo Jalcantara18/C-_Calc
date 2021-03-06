@@ -1,0 +1,13 @@
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\obj\Debug\netcoreapp3.1\PrimerParcialCalc.csprojAssemblyReference.cache
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\obj\Debug\netcoreapp3.1\PrimerParcialCalc.AssemblyInfoInputs.cache
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\obj\Debug\netcoreapp3.1\PrimerParcialCalc.AssemblyInfo.cs
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\obj\Debug\netcoreapp3.1\PrimerParcialCalc.csproj.CoreCompileInputs.cache
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\bin\Debug\netcoreapp3.1\PrimerParcialCalc.exe
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\bin\Debug\netcoreapp3.1\PrimerParcialCalc.deps.json
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\bin\Debug\netcoreapp3.1\PrimerParcialCalc.runtimeconfig.json
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\bin\Debug\netcoreapp3.1\PrimerParcialCalc.runtimeconfig.dev.json
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\bin\Debug\netcoreapp3.1\PrimerParcialCalc.dll
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\bin\Debug\netcoreapp3.1\PrimerParcialCalc.pdb
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\obj\Debug\netcoreapp3.1\PrimerParcialCalc.dll
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\obj\Debug\netcoreapp3.1\PrimerParcialCalc.pdb
+C:\Users\JulioAlcantara\source\repos\PrimerParcialCalc\PrimerParcialCalc\obj\Debug\netcoreapp3.1\PrimerParcialCalc.genruntimeconfig.cache
